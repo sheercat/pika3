@@ -1,0 +1,2 @@
+[config]
+SCM_SCRIPT_GENERATOR_ARGS=--aspNetCore "pika3/pika3.csproj" --solutionFile pika3.sln
